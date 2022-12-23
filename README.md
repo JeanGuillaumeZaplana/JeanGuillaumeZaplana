@@ -13,13 +13,20 @@ I am very flexible and easily adapt to different roles (Full Stack Web Developer
 
 ## 🔨 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=javascritp)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[![My Skills](https://skillicons.dev/icons?i=jquery)](https://jquery.com/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/fr/)
 [![My Skills](https://skillicons.dev/icons?i=express)](https://expressjs.com/fr/)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/manual/fr/)
 [![My Skills](https://skillicons.dev/icons?i=symfony)](https://symfony.com/doc/current/index.html)
+
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 [![My Skills](https://skillicons.dev/icons?i=mariadb)](https://mariadb.org/)
+
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![My Skills](https://skillicons.dev/icons?i=gitlab)](https://about.gitlab.com/)
+
 [![My Skills](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=jenkins)](https://www.jenkins.io/)
 [![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
@@ -33,3 +40,4 @@ I am very flexible and easily adapt to different roles (Full Stack Web Developer
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://palletsprojects.com/p/flask/)
