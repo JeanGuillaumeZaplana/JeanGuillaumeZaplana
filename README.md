@@ -1,7 +1,5 @@
 # Hi there 👋, I'm Jean-Guillaume ! 
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-
 I am very flexible and easily adapt to different roles (Full Stack Web Developer 🌐, App Developer 📱, Software Architect ✏️) depending on the needs of the project. I love exploring new tech stacks 💻 and using them to create cool stuff 🛠️.
 
 ## 🧐 More About Me: 
@@ -15,31 +13,30 @@ I am very flexible and easily adapt to different roles (Full Stack Web Developer
 
 ## 🔨 Languages and Tools:
 
-[![Skill Javascript](./icons/Javascript-Dark.svg)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[![Skill JQuery](./icons/JQuery-Dark.svg)](https://jquery.com/)
-[![Skill NodeJS](./icons/NodeJS-Dark.svg)](https://nodejs.org/fr/)
-[![Skill ExpressJS](./icons/ExpressJS-Dark.svg)](https://expressjs.com/fr/)
-[![Skill PHP](./icons/PHP-Dark.svg)](https://www.php.net/manual/fr/)
-[![Skill Symfony](./icons/Symfony-Dark.svg)](https://symfony.com/doc/current/index.html)
+[<img src="./icons/Javascript-Dark.svg" width="80" height="80">](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[<img src="./icons/JQuery-Dark.svg" width="80" height="80">](https://jquery.com/)
+[<img src="./icons/NodeJS-Dark.svg" width="80" height="80">](https://nodejs.org/fr/)
+[<img src="./icons/ExpressJS-Dark.svg" width="80" height="80">](https://expressjs.com/fr/)
+[<img src="./icons/PHP-Dark.svg" width="80" height="80">](https://www.php.net/manual/fr/)
+[<img src="./icons/Symfony-Dark.svg" width="80" height="80">](https://symfony.com/doc/current/index.html)
 
-[![Skill MySQL](./icons/MySQL-Dark.svg)](https://www.mysql.com/)
-[![Skill MariaDB](./icons/MariaDB-Dark.svg)](https://mariadb.org/)
+[<img src="./icons/MySQL-Dark.svg" width="80" height="80">](https://www.mysql.com/)
+[<img src="./icons/MariaDB-Dark.svg" width="80" height="80">](https://mariadb.org/)
 
-[![Skill Git](./icons/Git-Dark.svg)](https://git-scm.com/)
-[![Skill Github](./icons/Github-Dark.svg)](https://github.com/)
-[![Skill GitLab](./icons/GitLab-Dark.svg)](https://about.gitlab.com/)
+[<img src="./icons/Git-Dark.svg" width="80" height="80">](https://git-scm.com/)
+[<img src="./icons/Github-Dark.svg" width="80" height="80">](https://github.com/)
+[<img src="./icons/GitLab-Dark.svg" width="80" height="80">](https://about.gitlab.com/)
 
-[![Skill Docker](./icons/Docker-Dark.svg)](https://www.docker.com/)
-[![Skill JenKins](./icons/Jenkins-Dark.svg)](https://www.jenkins.io/)
-[![Skill Kubernetes](./icons/Kubernetes-Dark.svg)](https://kubernetes.io/)
-[![Skill OVH](./icons/OVH-Dark.svg)](https://www.ovh.com/fr/)
-[![Skill AWS](./icons/AWS-Dark.svg)](https://aws.amazon.com/fr/)
-
+[<img src="./icons/Docker-Dark.svg" width="80" height="80">](https://www.docker.com/)
+[<img src="./icons/Jenkins-Dark.svg" width="80" height="80">](https://www.jenkins.io/)
+[<img src="./icons/Kubernetes-Dark.svg" width="80" height="80">](https://kubernetes.io/)
+[<img src="./icons/OVH-Dark.svg" width="80" height="80">](https://www.ovh.com/fr/)
+[<img src="./icons/AWS-Dark.svg" width="80" height="80">](https://aws.amazon.com/fr/)
 
 ## 🔍 Next learning:
 
-[![Skill React](./icons/React-Dark.svg)](https://reactjs.org/)
-[![Skill ReactNative](./icons/React-Native-Dark.svg)](https://reactnative.dev/)
-[![Skill Python](./icons/Python-Dark.svg)](https://www.python.org/)
-[![Skill Django](./icons/Django-Dark.svg)](https://www.djangoproject.com/)
-[![Skill Flask](./icons/Flask-Dark.svg)](https://palletsprojects.com/p/flask/)
+[<img src="./icons/React-Dark.svg" width="80" height="80">](https://reactjs.org/)
+[<img src="./icons/React-Native-Dark.svg" width="80" height="80">](https://reactnative.dev/)
+[<img src="./icons/Python-Dark.svg" width="80" height="80">](https://www.python.org/)
+[<img src="./icons/Django-Dark.svg" width="80" height="80">](https://www.djangoproject.com/)
+[<img src="./icons/Flask-Dark.svg" width="80" height="80">](https://palletsprojects.com/p/flask/)
