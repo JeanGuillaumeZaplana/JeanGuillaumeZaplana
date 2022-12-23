@@ -13,9 +13,9 @@ I am very flexible and easily adapt to different roles (Full Stack Web Developer
 
 ## 🔨 Languages and Tools:
 
-[<img src="./icons/Javascript-Dark.svg" width="80" height="80">](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-[<img src="./icons/JQuery-Dark.svg" width="80" height="80">](https://jquery.com/)
-[<img src="./icons/NodeJS-Dark.svg" width="80" height="80">](https://nodejs.org/fr/)
+[<img src="./icons/Javascript-Dark.svg" width="70" height="70">](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[<img src="./icons/JQuery-Dark.svg" width="60" height="60">](https://jquery.com/)
+[<img src="./icons/NodeJS-Dark.svg" width="50" height="50">](https://nodejs.org/fr/)
 [<img src="./icons/ExpressJS-Dark.svg" width="80" height="80">](https://expressjs.com/fr/)
 [<img src="./icons/PHP-Dark.svg" width="80" height="80">](https://www.php.net/manual/fr/)
 [<img src="./icons/Symfony-Dark.svg" width="80" height="80">](https://symfony.com/doc/current/index.html)
