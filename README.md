@@ -5,7 +5,7 @@ I am very flexible and easily adapt to different roles (Full Stack Web Developer
 ## 🧐 More About Me: 
 
 - 🔭 I’m currently working on a web app for freelances
-- 🌱 I’m currently learning [React JS](https://reactjs.org/)
+- 🌱 I’m currently learning [Symfony](https://symfony.com/) and [VueJS](https://vuejs.org/)
 - 📫 You can contact me on [Linkedin](https://www.linkedin.com/in/jeanguillaumezaplana/)
 - 🏍️ We may meet on the roads, bikers ! ✌️
 - 💻 I like programmer and I'm really excited to learn new technologies
@@ -14,6 +14,7 @@ I am very flexible and easily adapt to different roles (Full Stack Web Developer
 ## 🔨 Languages and Tools:
 
 [<img src="./icons/Javascript-Dark.svg" width="60" height="60">](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+[<img src="./icons/VueJS-Dark.svg" width="60" height="60">](https://vuejs.org/)
 [<img src="./icons/JQuery-Dark.svg" width="60" height="60">](https://jquery.com/)
 [<img src="./icons/NodeJS-Dark.svg" width="60" height="60">](https://nodejs.org/fr/)
 [<img src="./icons/ExpressJS-Dark.svg" width="60" height="60">](https://expressjs.com/fr/)
