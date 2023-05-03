@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jean-Guillaume ! 
+# Hello there 👋, I'm Jean-Guillaume ! 
 
 I am very flexible and easily adapt to different roles (Full Stack Web Developer 🌐, App Developer 📱, Software Architect ✏️) depending on the needs of the project. I love exploring new tech stacks 💻 and using them to create cool stuff 🛠️.
 
